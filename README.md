@@ -1,0 +1,2 @@
+# golangNote
+Some practice
